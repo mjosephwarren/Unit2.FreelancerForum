@@ -1,0 +1,49 @@
+/* General */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #8bb5a1;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+/* Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #000;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+th {
+    background-color: #f7f7f7;
+}
+
+/* Average price */
+#average-price {
+    font-size: 1.2em;
+    margin-top: 20px;
+    text-align: center;
+    color: #666;
+}
